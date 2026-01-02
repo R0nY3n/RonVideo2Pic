@@ -2,7 +2,7 @@
 
 Video Frame Browser & Exporter / 视频逐帧浏览与导出工具
 
-**Author:** Ron  
+**Author:** Ron
 **Homepage:** [Ron.Quest](https://ron.quest)
 
 ---
